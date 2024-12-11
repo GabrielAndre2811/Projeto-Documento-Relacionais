@@ -38,11 +38,11 @@ Imagine que você possui:
 Abaixo estão capturas de tela que demonstram o funcionamento do programa:
 
 
-<img src="./Screenshots/Screen/home.png" alt="Home" width="600">
-<img src="./Screenshots/Screen/mesclagem.png" alt="Mesclagem" width="600">
-<img src="./Screenshots/Screen/diretorio.png" alt="Diretório" width="600">
-<img src="./Screenshots/Screen/Logs.png" alt="log" width="600">
-<img src="./Screenshots/Screen/Config.png" alt="config" width="600">
+<img src="./Screenshots/Screen/home.png" alt="Home" width="800">
+<img src="./Screenshots/Screen/mesclagem.png" alt="Mesclagem" width="800">
+<img src="./Screenshots/Screen/diretorio.png" alt="Diretório" width="800">
+<img src="./Screenshots/Screen/Logs.png" alt="log" width="800">
+<img src="./Screenshots/Screen/Config.png" alt="config" width="800">
 <img src="./Screenshots/Screen/Sobre.png" alt="sobre" width="800">
 
 ### 🌟 Benefícios
