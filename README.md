@@ -1,7 +1,6 @@
 # Projeto: Documento Relacionais
-![Ícone do Programa](./Screenshots/Screen/th.jpg)
-<img src="./Screenshots/Screen/th.jpg" alt="Ícone do Programa" width="150">
 
+<img src="./Screenshots/Screen/th.jpg" alt="Ícone do Programa" width="150">
 
 Programa offline para manipulação de arquivos PDF, com funcionalidades de:
 
@@ -37,6 +36,11 @@ Imagine que você possui:
 ### 📸 Prints do Programa
 
 Abaixo estão capturas de tela que demonstram o funcionamento do programa:
+
+
+<img src="./Screenshots/Screen/home.png" alt="Home" width="150">
+<img src="./Screenshots/Screen/th.jpg" alt="Ícone do Programa" width="150">
+<img src="./Screenshots/Screen/th.jpg" alt="Ícone do Programa" width="150">
 
 ![Tela Inicial](./Print/home.png)
 ![Configurações](./screenshots/configuracoes.png)
