@@ -66,7 +66,17 @@ Abaixo estão capturas de tela que demonstram o funcionamento do programa:
    ```
 2. Instale as dependências:
    ```bash
-   pip install -r requirements.txt
+   pip install -r fuzzywuzzy
+   pip install -r fpdf
+   pip install -r shutill
+   pip install -r json
+   pip install -r tkinter
+   pip install -r pyPDF2
+   pip install -r PIL
+   pip install -r PyMuPDF
+   pip install -r logging
+   pip install -r file-operations
+   
    ```
 3. Execute o programa:
    ```bash
