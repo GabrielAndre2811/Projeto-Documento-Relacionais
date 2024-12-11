@@ -56,7 +56,7 @@ Abaixo estão capturas de tela que demonstram o funcionamento do programa:
 - Sistema Operacional: Windows, macOS ou Linux
 - Dependências:
   - Python 3.x
-  - Bibliotecas: PyPDF2, pandas, entre outras (listadas no arquivo `requirements.txt`).
+  - Bibliotecas: PyPDF2, pandas, entre outras (listadas no arquivo `Instale as dependencias`).
 
 ### 🚀 Instalação
 
@@ -76,6 +76,7 @@ Abaixo estão capturas de tela que demonstram o funcionamento do programa:
    pip install -r PyMuPDF
    pip install -r logging
    pip install -r file-operations
+   pip install -r pandas
    
    ```
 3. Execute o programa:
@@ -89,4 +90,4 @@ Contribuições são bem-vindas! Abra um *pull request* com melhorias, ou relate
 
 ---
 
-**Nota:** As capturas de tela usadas no README estão na pasta `./screenshots`. Certifique-se de mantê-las atualizadas ao adicionar novas funcionalidades.
+**Nota:** As capturas de tela usadas no README estão na pasta `./Screenshots`. Certifique-se de mantê-las atualizadas ao adicionar novas funcionalidades.
