@@ -1,0 +1,271 @@
+{
+    "palavras_chave": {
+        "capa": [
+            "capa",
+            "capafatura",
+            "capa fatura",
+            "capa f"
+        ],
+        "check": [
+            "check",
+            "checklist",
+            "check-list"
+        ],
+        "nf": [
+            "nf",
+            "nota fiscal",
+            "nf notafiscal",
+            "nota fiscal eletr\u00f4nica",
+            "nf-e"
+        ],
+        "descriminativa": [
+            "descriminativa",
+            "discriminativa",
+            "fatura discriminativa",
+            "fatura descreve"
+        ],
+        "empenho": [
+            "empenho",
+            "nota empenho",
+            "nota de empenho"
+        ],
+        "certificacao": [
+            "certificacao",
+            "certificacao de servicos",
+            "certificacao servi\u00e7os",
+            "cert",
+            "certificacao"
+        ],
+        "contrato": [
+            "contrato",
+            "contratos",
+            "contrato de presta\u00e7\u00e3o",
+            "contrato de servi\u00e7o"
+        ],
+        "ordem": [
+            "ordem",
+            "ordem de servi\u00e7o",
+            "ordem de servi\u00e7os",
+            "ordem servico"
+        ],
+        "nomeacao": [
+            "nomeacao",
+            "portaria de nomeacao",
+            "portaria nomeacao",
+            "nomeacao do fiscal"
+        ],
+        "apostilhamento": [
+            "apostilhamento",
+            "termo",
+            "termo aditivo",
+            "apostilamento"
+        ],
+        "cronograma": [
+            "cronograma",
+            "cronograma vigente",
+            "cronograma contratado"
+        ],
+        "rvo": [
+            "rvo",
+            "relatorio de visita",
+            "visita",
+            "relatorio visita",
+            "rvo obra"
+        ],
+        "justificativa": [
+            "justificativa",
+            "justificativa contratada",
+            "justificativa da contratada",
+            "justificativa de contrato"
+        ],
+        "folha resumo mediacao": [
+            "resumo",
+            "resumo mediacao",
+            "folha resumo",
+            "folha resumo mediacao"
+        ],
+        "planilha": [
+            "planilha",
+            "planilhas",
+            "planilha de mediacao",
+            "planilhas de mediacao"
+        ],
+        "diario": [
+            "diario",
+            "diario de obra",
+            "livro diario",
+            "diario de obra do periodo"
+        ],
+        "relacao": [
+            "relacao",
+            "relacao de funcionarios",
+            "relacao de trabalhadores",
+            "relacao de empregados",
+            "colaboradores",
+            "empregados",
+            "relacao empregados"
+        ],
+        "comprovante": [
+            "comprovante",
+            "comprovantes",
+            "comprovante pagamento",
+            "pagamento",
+            "pgt",
+            "recibos",
+            "recibo"
+        ],
+        "dctfweb": [
+            "dctfweb",
+            "declaracao",
+            "declara\u00e7\u00e3o completa",
+            "dctf-web"
+        ],
+        "fgts": [
+            "fgts",
+            "guia fgts",
+            "guia recolhimento fgts",
+            "cnd fgts"
+        ],
+        "inss": [
+            "inss",
+            "guia inss",
+            "guia recolhimento inss",
+            "cnd inss"
+        ],
+        "cndtrabalhista": [
+            "cnd trabalhista",
+            "certificado cnd trabalhista",
+            "cndtrabalhista"
+        ],
+        "federais": [
+            "federais",
+            "federal",
+            "cnd federais",
+            "certificado cnd federais"
+        ],
+        "estaduais": [
+            "estaduais",
+            "estadual",
+            "cnd estaduais",
+            "certificado cnd estaduais"
+        ],
+        "municipais": [
+            "municipais",
+            "municipal",
+            "cnd municipais",
+            "certificado cnd municipais",
+            "cnd municipal",
+            "certificado cnd municipal"
+        ],
+        "nota madeira": [
+            "nota fiscal de aquisi\u00e7\u00e3o de madeira",
+            "nota madeira",
+            "nota fiscal de aquisi\u00e7\u00e3o"
+        ],
+        "declaracao madeira nativa": [
+            "declara\u00e7\u00e3o madeira nativa",
+            "declara\u00e7\u00e3o de uso de madeira nativa"
+        ],
+        "documento origem florestal": [
+            "documento de origem florestal",
+            "dof",
+            "documento origem florestal"
+        ],
+        "comprovante cadastro fornecedor": [
+            "comprovante cadastro fornecedor",
+            "comprovante fornecedor",
+            "comprovante cadastro"
+        ],
+        "nota madeira reflorestamento": [
+            "nota fiscal de reflorestamento",
+            "declara\u00e7\u00e3o madeira reflorestamento",
+            "nota madeira reflorestamento"
+        ],
+        "art execucao": [
+            "art execu\u00e7\u00e3o",
+            "rrt execu\u00e7\u00e3o"
+        ],
+        "art fiscalizacao": [
+            "art fiscalizacao",
+            "rrt fiscaliza\u00e7\u00e3o"
+        ],
+        "seguro engenharia": [
+            "seguro risco engenharia",
+            "seguro de risco de engenharia"
+        ],
+        "alvara": [
+            "alvar\u00e1",
+            "alvara"
+        ],
+        "certidao conclusao obra": [
+            "certid\u00e3o de conclus\u00e3o",
+            "certidao conclusao obra",
+            "certid\u00e3o conclus\u00e3o de obra"
+        ],
+        "termo recebimento": [
+            "termo de recebimento",
+            "recebimento",
+            "termo recebimento"
+        ],
+        "termo garantia equipamento": [
+            "termo de garantia de equipamento",
+            "garantia equipamento",
+            "termo garantia equipamento"
+        ],
+        "manual operacao manutencao": [
+            "manual de opera\u00e7\u00e3o e manuten\u00e7\u00e3o",
+            "manual opera\u00e7\u00e3o manuten\u00e7\u00e3o",
+            "manual operacao manutencao"
+        ],
+        "as built": [
+            "as-built",
+            "as built"
+        ]
+    },
+    "novos_nomes": [
+        "1.1 - Capa Fatura.pdf",
+        "2.1 - Nota Fiscal.pdf",
+        "2.2 - Fatura Discriminativa.pdf",
+        "2.3 - Nota Empenho.pdf",
+        "2.4 - Certifica\u00e7\u00e3o de Servi\u00e7os.pdf",
+        "3.1 - Contrato.pdf",
+        "3.2 - Ordem de Servi\u00e7o.pdf",
+        "3.3 - Portaria de Nomea\u00e7\u00e3o do Fiscal e Gestor do Contrato.pdf",
+        "3.4 - Termo Aditivo Apostilhamento.pdf",
+        "4.1 - Cronograma Contratado Vigente.pdf",
+        "5.1 - RVO - Relat\u00f3rio Visita de Obra.pdf",
+        "5.2 - Justificativa da Contratada.pdf",
+        "6.1 - Folha Resumo da Medi\u00e7\u00e3o.pdf",
+        "6.2 - Planilhas de Medi\u00e7\u00e3o - Parcela e Acumulado.pdf",
+        "7.1 - Livro Di\u00e1rio de Obra do Per\u00edodo.pdf",
+        "8.1 - Rela\u00e7\u00e3o dos Trabalhadores do M\u00eas da Medi\u00e7\u00e3o.pdf",
+        "8.2 - Comprovantes de Pagamento do Pessoal.pdf",
+        "9.1 - DCTFWeb (GFIP-SFIP).pdf",
+        "10.1 - Guia de Recolhimento do FGTS.pdf",
+        "10.2 - Guia de Recolhimento do INSS - GPS.pdf",
+        "11.1 - CND - Trabalhistas.pdf",
+        "11.2 - CND - FGTS.pdf",
+        "11.3 - CND - Tributos Federais.pdf",
+        "11.4 - CND - Tributos Estaduais.pdf",
+        "11.5 - CND - Tributos Municipais.pdf",
+        "12.1 - CND - Matr\u00edcula no INSS - CEI/CNO.pdf",
+        "13.1 - Nota Fiscal de Aquisi\u00e7\u00e3o de Produtos ou Subprodutos de Madeira.pdf",
+        "13.2 - Declara\u00e7\u00e3o de Uso de Apenas Madeira de Origem Nativa.pdf",
+        "13.3 - Documento de Origem Florestal (DOF).pdf",
+        "13.4 - Comprovante de Cadastro do Fornecedor.pdf",
+        "14.1 - Nota Fiscal de Aquisi\u00e7\u00e3o de Produtos ou Subprodutos de Madeira.pdf",
+        "14.2 - Declara\u00e7\u00e3o de Uso de Apenas Madeira de Reflorestamento.pdf",
+        "15.1 - ART/RRT Execu\u00e7\u00e3o.pdf",
+        "15.2 - ART/RRT Fiscaliza\u00e7\u00e3o.pdf",
+        "15.3 - Seguro de Risco de Engenharia.pdf",
+        "15.4 - Alvar\u00e1.pdf",
+        "16.1 - Certid\u00e3o de Conclus\u00e3o de Obra.pdf",
+        "16.2 - Termo de Recebimento.pdf",
+        "16.3 - CND - INSS da Obra.pdf",
+        "16.4 - Termo de Garantia de Equipamento.pdf",
+        "16.5 - Manual de Opera\u00e7\u00e3o, Uso e Manuten\u00e7\u00e3o da Edifica\u00e7\u00e3o.pdf",
+        "17.1 - AS BUILT.pdf"
+    ],
+    "acuracia": 64,
+    "diretorio_origem": "diretorio_origem"
+}

@@ -1,0 +1,103 @@
+{
+    "palavras_chave": {
+        "1": [
+            "1.1 - Capa Fatura.pdf",
+            "2.1 - Nota Fiscal.pdf",
+            "2.2 - Fatura Discriminativa.pdf",
+            "2.3 - Nota Empenho.pdf",
+            "2.4 - Certificação de Serviços.pdf"
+        ],
+        "2": [
+            "2.1 - Nota Fiscal.pdf",
+            "2.2 - Fatura Discriminativa.pdf",
+            "2.3 - Nota Empenho.pdf",
+            "2.4 - Certificação de Serviços.pdf"
+        ],
+        "3": [
+            "3.1 - Contrato.pdf",
+            "3.2 - Ordem de Serviço.pdf",
+            "3.3 - Portaria de Nomeação do Fiscal e Gestor do Contr.pdf",
+            "3.4 - Termo Aditivo Apostilamento.pdf"
+        ],
+        "4": [
+            "4.1 - Cronograma Contratado Vigente.pdf"
+        ],
+        "5": [
+            "5.1 - RVO - Relatório Visita de Obra.pdf",
+            "5.2 - Justificativa da Contratada.pdf"
+        ],
+        "6": [
+            "6.1 - Folha Resumo da Mediação.pdf",
+            "6.2 - Planilhas de Mediação - Parcela e Acumulado.pdf"
+        ],
+        "7": [
+            "7.1 - Livro Diário de Obra do Periodo.pdf"
+        ],
+        "8": [
+            "8.1 - Relação dos Trabalhadores do Mês da Mediação.pdf",
+            "8.2 - Comprovantes de Pagamento do Pessoal.pdf"
+        ],
+        "9": [
+            "9.1 - DCTFWeb (GFIP-SFIP).pdf"
+        ],
+        "10": [
+            "10.1 - Guia de Recolhimento do FGTS.pdf",
+            "10.2 - Guia de Recolhimento do INSS - GPS.pdf"
+        ],
+        "11": [
+            "11.1 - CND - Trabalhistas.pdf",
+            "11.2 - CND - FGTS.pdf",
+            "11.3 - CND - TRIBUTOS FEDERAIS.pdf",
+            "11.4 - CND - TRIBUTOS ESTADUAIS.pdf",
+            "11.5 - CND - TRIBUTOS MUNICIPAIS.pdf"
+        ],
+        "12": [
+            "12.1 - CND - MATRÍCULA NO INSS - CEI/CNO.pdf"
+        ],
+        "13": [
+            "13.1 - Nota Fiscal de Aquisição de produtos ou subprodutos de Madeira.pdf",
+            "13.2 - Declaração de uso de apenas madeira de Origem Nativa.pdf",
+            "13.3 - Documento de origem florestal (DOF).pdf",
+            "13.4 - Comprovante de cadastro do fornecedor.pdf"
+        ],
+        "14": [
+            "14.1 - Nota Fiscal de Aquisição de produtos ou subprodutos de Madeira.pdf",
+            "14.2 - Declaração de uso de apenas madeira de Reflorestamento.pdf"
+        ],
+        "15": [
+            "15.1 - ART/RRT Execução",
+            "15.2 - ART/RRT Fiscalização",
+            "15.3 - Seguro de Risco de Engenharia.pdf",
+            "15.4 - Alvará.pdf"
+        ],
+        "16": [
+            "16.1 - Certidão de Conclusão de Obra",
+            "16.2 - Termo de recebimento",
+            "16.3 - CND - INSS da obra",
+            "16.4 - Termo de Garantia de Equipamento",
+            "16.5 - Manual de Operação uso e Manutenção da Edificação"
+        ],
+        "17": [
+            "17.1 - AS BUILT.pdf"
+        ]
+    },
+    "novos_nomes": [
+        "1 - REQUERIMENTO CHECK LIST.pdf",
+        "2 - NOTA FISCAL FATURA.pdf",
+        "3 - CONTRATO.pdf",
+        "4 - CRONOGRAMA.pdf",
+        "5 - RVO OBRA.pdf",
+        "6 - PLANILHA MEDICAO.pdf",
+        "7 - DIARIO OBRA.pdf",
+        "8 - REGULARIZACAO TRABALHADORES.pdf",
+        "9 - DCTFWeb (GFIP-SFIP).pdf",
+        "10 - FGTS INSS.pdf",
+        "11 - CNDS.pdf",
+        "12 - MATRICULA - CEI/CNO.pdf",
+        "13 - MADEIRA NATIVA.pdf",
+        "14 - MADEIRA REFLORESTAMENTO.pdf",
+        "15 - PRIMEIRA FATURA.pdf",
+        "16 - ULTIMA FATURA.pdf",
+        "17 - AS BUILT.pdf"
+    ]
+}
