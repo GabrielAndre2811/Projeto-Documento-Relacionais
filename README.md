@@ -1,6 +1,6 @@
 # Projeto: Documento Relacionais
 
-![Ícone do Programa](./Prints Interface/Telas/th.jpg)
+![Ícone do Programa](Prints Interface/Telas/th.jpg)
 
 Programa offline para manipulação de arquivos PDF, com funcionalidades de:
 
