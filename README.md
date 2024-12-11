@@ -1,5 +1,7 @@
 # Projeto: Documento Relacionais
 ![Ícone do Programa](./Screenshots/Screen/th.jpg)
+<img src="./Screenshots/Screen/th.jpg" alt="Ícone do Programa" width="150">
+
 
 Programa offline para manipulação de arquivos PDF, com funcionalidades de:
 
